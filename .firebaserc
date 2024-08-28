@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "netflix-clone-40f62",
+    "build": "netflix-clone-a76c7"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
