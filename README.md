@@ -1,4 +1,4 @@
- # Netflix Clone
+ # PopcornPlay
 
  ## Features
 
@@ -10,4 +10,4 @@
 
 
 
- ## Website Link :- https://netflix-clone-a76c7.web.app
+ ## Link :- https://playflare.netlify.app/
